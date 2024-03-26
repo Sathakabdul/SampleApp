@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Lindsy",
+    "last_name": "Stefanovic",
+    "email": "lstefanovic0@acquirethisname.com",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "first_name": "Britte",
+    "last_name": "Okker",
+    "email": "bokker1@ucoz.com",
+    "gender": "Bigender"
+  },
+  {
+    "id": 3,
+    "first_name": "Adelaide",
+    "last_name": "Astie",
+    "email": "aastie2@fc2.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Broddy",
+    "last_name": "Hairsnape",
+    "email": "bhairsnape3@comsenz.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 5,
+    "first_name": "Devon",
+    "last_name": "de Marco",
+    "email": "ddemarco4@printfriendly.com",
+    "gender": "Female"
+  },
+  {
+    "id": 6,
+    "first_name": "Helen-elizabeth",
+    "last_name": "Virr",
+    "email": "hvirr5@mlb.com",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "first_name": "Silvio",
+    "last_name": "Petroulis",
+    "email": "spetroulis6@home.pl",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "first_name": "Griff",
+    "last_name": "Kolin",
+    "email": "gkolin7@tinyurl.com",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Onfre",
+    "last_name": "Dickey",
+    "email": "odickey8@accuweather.com",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "first_name": "Job",
+    "last_name": "Blayney",
+    "email": "jblayney9@marriott.com",
+    "gender": "Male"
+  }
+]

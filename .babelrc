@@ -1,0 +1,11 @@
+{
+  "presets": ["next/babel", "@babel/preset-env"],
+  "env": {
+    "test": {
+      "plugins": [
+        "@babel/plugin-transform-modules-commonjs",
+        "transform-class-properties"
+      ]
+    }
+  }
+}
